@@ -1,0 +1,13 @@
+# This repo's tree is text-only — build artifacts live as Release assets, never here.
+*.dmg
+*.app
+*.app.tar.gz
+*.app.tar.gz.sig
+*.pkg
+*.zip
+
+# macOS / editor cruft
+.DS_Store
+*.swp
+.idea/
+.vscode/
