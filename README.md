@@ -46,18 +46,48 @@ tab at once — and who care about how their tools **look and feel**.
 
 ## Highlights
 
-- 🗂️ **Tabs, split & floating panes, saved workspaces** — arrange your work and come
-  back to it exactly as you left it.
+Everything here is in the app. Items marked **Pro** need a subscription — see
+[Pricing](#pricing) below.
+
+- 🗂️ **Tabs, split panes, saved workspaces** — arrange your work and come back to it
+  exactly as you left it. _Floating panes and synchronized input are **Pro**._
 - 🌐 **Embedded web browser _with devtools_** — read docs or debug a page without
   leaving the terminal.
-- 📁 **File explorer with previews** — images, markdown, code, PDF, video — right
-  beside your shell.
+- 📁 **File explorer with previews** — images, markdown, code, PDF and CSV right
+  beside your shell. _Video, audio and Excel/Word/PowerPoint previews, folder
+  search and bookmarks are **Pro**._
 - ⌘ **Command blocks & palette** — group each command's input/output, jump around
-  with ⌘K, and type faster with autocompletion.
-- 🔐 **SSH remote sessions** — saved connections, jump hosts, your own keys.
-- 🤖 **AI assistant** — explain or fix a command inline, with your own API key.
-- 🎨 **~50 themes, per-pane transparency, fonts** — make it unmistakably yours.
+  with ⌘K, and type faster with autocompletion. _Searching past command output (the
+  time machine) is **Pro**._
+- 🔐 **SSH remote sessions** — saved connections with your own keys. NovusTerm never
+  stores or handles your credentials. _Jump / bastion hosts are **Pro**._
+- 🤖 **AI assistant** — a streaming chat pane that reads your terminal, with your own
+  API key. _Per-command "explain / fix" actions and the agent console are **Pro**._
+- 📊 **System & process monitor** — CPU, memory and a live process list. _Terminating
+  processes, per-process details and disk/network I/O are **Pro**._
+- 🎨 **55 themes, 13 fonts, per-pane transparency** — all free, all yours.
 - 🔄 **Auto-updating** — secure, signature-verified updates, in-app.
+
+## Pricing
+
+**Free forever**, with a **7-day Pro trial** on first launch. No account — a license
+key is your access.
+
+The Free plan is a real terminal, not a demo: **6 terminal tabs** (4 panes each),
+**3 workspaces**, **every theme and font**, the browser, the file explorer, SSH, and
+AI chat with your own API key.
+
+| Plan | Price | Macs |
+|---|---|---|
+| **Free** | $0 forever | — |
+| **Pro Monthly** | $6.99 / month | 1 |
+| **Pro Quarterly** | $17.99 / quarter (−14%) | 1 |
+| **Pro Annual** | $49 / year (−42%) | **2** |
+
+Every Pro plan unlocks the **same** features — they differ only in price and how many
+Macs they cover. Compare them in the app under **Account ▸ Compare plans**.
+
+> **Billing opens soon.** Until then, Pro is available through the 7-day trial.
 
 ## Download & install
 
