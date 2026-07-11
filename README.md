@@ -118,7 +118,9 @@ full running history lives in **[`CHANGELOG.md`](./CHANGELOG.md)**.
 | ⬇️ Download | **[Latest release](https://github.com/NovusTerm/novus-term-releases/releases/latest)** · [all releases](https://github.com/NovusTerm/novus-term-releases/releases) |
 | 📝 Changes | [CHANGELOG](./CHANGELOG.md) |
 | 🔧 How releases are published | [docs/RELEASE-PROCESS.md](./docs/RELEASE-PROCESS.md) |
-| 📄 License | [LICENSE.md](./LICENSE.md) |
+| 📄 License / EULA | [English](./LICENSE.md) · [Español](./LICENSE.es.md) |
+| 🔒 Privacy | [English](./PRIVACY.md) · [Español](./PRIVACY.es.md) |
+| 📦 Open-source notices | [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) |
 
 ---
 
