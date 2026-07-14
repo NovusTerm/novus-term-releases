@@ -19,8 +19,9 @@ on first launch. Items marked **(Pro)** require a subscription.
 - Terminal workspace: tabs, split panes, saved workspaces and layouts.
   Floating panes and synchronized input **(Pro)**.
 - Widgets: file explorer with image/PDF/code/markdown/CSV previews, embedded web
-  browser (with devtools), system/process monitor, clock.
-  Video, audio and Office previews, folder search and bookmarks **(Pro)**.
+  browser, system/process monitor, clock. Browser bookmarks and folders are free
+  and unlimited.
+  Video, audio and Office previews, folder search and file bookmarks **(Pro)**.
   Process termination, per-process details and disk/network I/O **(Pro)**.
 - Warp-style command **blocks**, command **palette** (⌘K), and autocompletion.
   Searching past command output — the time machine — **(Pro)**.
