@@ -22,7 +22,7 @@ in one fast, beautiful, deeply customizable window.
 
 ---
 
-> ⚠️ **Early beta (v0.1.0).** NovusTerm works today — the whole workspace below is
+> ⚠️ **Early beta (v0.1.1).** NovusTerm works today — the whole workspace below is
 > real — but it's under active development, so expect some rough edges. Your
 > feedback shapes what ships next.
 
@@ -51,11 +51,11 @@ Everything here is in the app. Items marked **Pro** need a subscription — see
 
 - 🗂️ **Tabs, split panes, saved workspaces** — arrange your work and come back to it
   exactly as you left it. _Floating panes and synchronized input are **Pro**._
-- 🌐 **Embedded web browser _with devtools_** — read docs or debug a page without
-  leaving the terminal.
+- 🌐 **Embedded web browser** — read docs or follow a link without leaving the
+  terminal. _Bookmarks and folders are free and **unlimited**._
 - 📁 **File explorer with previews** — images, markdown, code, PDF and CSV right
   beside your shell. _Video, audio and Excel/Word/PowerPoint previews, folder
-  search and bookmarks are **Pro**._
+  search and file bookmarks are **Pro**._
 - ⌘ **Command blocks & palette** — group each command's input/output, jump around
   with ⌘K, and type faster with autocompletion. _Searching past command output (the
   time machine) is **Pro**._
